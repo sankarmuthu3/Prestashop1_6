@@ -1,0 +1,6 @@
+*ERROR* 	2018/08/14 - 07:26:28: Link to database cannot be established:SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2018/08/14 - 07:26:38: Link to database cannot be established:SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2018/08/14 - 07:26:42: Link to database cannot be established:SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ at line 102 in file classes/db/DbPDO.php
